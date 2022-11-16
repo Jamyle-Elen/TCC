@@ -20,6 +20,7 @@ body {
     height: 100%;
     overflow: hidden;
     background-size: cover;
+    
 }
 
 .all {
@@ -121,7 +122,11 @@ button {
     }
 
     .all h1 {
-        font-size: 18px;
+        font-size: 20px;
+        background: rgb(122, 121, 121);
+        color: #000;
+        border-radius: 10px;
+        padding: 5px;
     }
 
     input {

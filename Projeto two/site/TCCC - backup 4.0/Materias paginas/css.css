@@ -13,6 +13,8 @@
   width: 100%;
   height: 93vh;
   position: absolute;
+  padding-left: 30px;
+  padding-right: 30px;
 }
 
 .h1m {
